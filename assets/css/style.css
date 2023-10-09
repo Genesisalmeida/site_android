@@ -196,3 +196,8 @@ footer a:hover{
 }
 
 
+@media(max-width:320px) {
+    nav > a {
+        padding: 1px;
+    }
+}
